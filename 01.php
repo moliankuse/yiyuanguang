@@ -1,3 +1,4 @@
+
 <?PHP $a=5;
     echo var_dump  ($a),'<br>';
     //整形int
